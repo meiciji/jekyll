@@ -1,0 +1,16 @@
+current directory: /workspaces/jekyll/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/opt/ruby/2.7.7/bin/ruby -I /opt/ruby/2.7.7/lib/ruby/site_ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /workspaces/jekyll/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250425-5433-1dhi63p sitelibdir\=./.gem.20250425-5433-1dhi63p clean
+
+current directory: /workspaces/jekyll/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250425-5433-1dhi63p sitelibdir\=./.gem.20250425-5433-1dhi63p
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /workspaces/jekyll/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250425-5433-1dhi63p sitelibdir\=./.gem.20250425-5433-1dhi63p install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20250425-5433-1dhi63p

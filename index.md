@@ -1,4 +1,6 @@
 ---
+*title: Home*
 ---
 
-# tonic-starter
+# my-theme
+It's going to be a flower theme.
